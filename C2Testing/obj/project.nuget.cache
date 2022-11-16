@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "zeTMsGuKeWT5UXVFQVH0/58UQYJDMYw6YS34b107yG/DQ/lXHUA1D6QQhdhVYxDMxBNax+ueKyK7C5J0J7g58A==",
+  "success": true,
+  "projectFilePath": "E:\\Yogesh\\Live\\Prac\\C#\\CSharp-Practise\\WPF\\C2Testing\\C2Testing\\C2Testing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yogesh\\.nuget\\packages\\xmldiffpatch\\1.0.8.28\\xmldiffpatch.1.0.8.28.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'XMLDiffPatch 1.0.8.28' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "XMLDiffPatch",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

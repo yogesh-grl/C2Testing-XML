@@ -1,0 +1,114 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "XMLDiffPatch/1.0.8.28": {
+        "type": "package",
+        "compile": {
+          "lib/net/XmlDiffPatch.View.dll": {},
+          "lib/net/XmlDiffPatch.dll": {}
+        },
+        "runtime": {
+          "lib/net/XmlDiffPatch.View.dll": {},
+          "lib/net/XmlDiffPatch.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "XMLDiffPatch/1.0.8.28": {
+      "sha512": "YkheWbBdFWKmtexnCGm2KbKanXrGxfbQDtM3/W//D5CWqps7OLZD5Lfq95apb5Zv3NCMoFiwschSK5vS1EoMOw==",
+      "type": "package",
+      "path": "xmldiffpatch/1.0.8.28",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net/XmlDiffPatch.View.dll",
+        "lib/net/XmlDiffPatch.dll",
+        "xmldiffpatch.1.0.8.28.nupkg.sha512",
+        "xmldiffpatch.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "XMLDiffPatch >= 1.0.8.28"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Yogesh\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\Yogesh\\Live\\Prac\\C#\\CSharp-Practise\\WPF\\C2Testing\\C2Testing\\C2Testing.csproj",
+      "projectName": "C2Testing",
+      "projectPath": "E:\\Yogesh\\Live\\Prac\\C#\\CSharp-Practise\\WPF\\C2Testing\\C2Testing\\C2Testing.csproj",
+      "packagesPath": "C:\\Users\\Yogesh\\.nuget\\packages\\",
+      "outputPath": "E:\\Yogesh\\Live\\Prac\\C#\\CSharp-Practise\\WPF\\C2Testing\\C2Testing\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Yogesh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "XMLDiffPatch": {
+            "target": "Package",
+            "version": "[1.0.8.28, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'XMLDiffPatch 1.0.8.28' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "XMLDiffPatch",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
