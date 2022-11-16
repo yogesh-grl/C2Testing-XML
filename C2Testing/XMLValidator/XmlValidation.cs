@@ -345,7 +345,7 @@ namespace C2Testing.XMLValidator
                             }
 
                             Console.WriteLine($"{ParentAttrValue} {GoldenReportValue} {GoldenReportElement[x].Name} : {goldenReportFirstAtt} " +
-                        $"{CurrentReportValue} {CurrentReportElement[x].Name} : {goldenReportFirstAtt} ");
+                        $"{CurrentReportValue} {CurrentReportElement[x].Name} : {currentReportFirstAtt} ");
                             retVal = false;
 
                         }

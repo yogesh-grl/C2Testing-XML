@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Yogesh\\Live\\Prac\\C#\\CSharp-Practise\\WPF\\C2Testing\\C2Testing\\C2Testing.csproj": {}
+    "E:\\Source Code\\GIT\\Yogesh\\C2Testing-XML\\C2Testing\\C2Testing.csproj": {}
   },
   "projects": {
-    "E:\\Yogesh\\Live\\Prac\\C#\\CSharp-Practise\\WPF\\C2Testing\\C2Testing\\C2Testing.csproj": {
+    "E:\\Source Code\\GIT\\Yogesh\\C2Testing-XML\\C2Testing\\C2Testing.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Yogesh\\Live\\Prac\\C#\\CSharp-Practise\\WPF\\C2Testing\\C2Testing\\C2Testing.csproj",
+        "projectUniqueName": "E:\\Source Code\\GIT\\Yogesh\\C2Testing-XML\\C2Testing\\C2Testing.csproj",
         "projectName": "C2Testing",
-        "projectPath": "E:\\Yogesh\\Live\\Prac\\C#\\CSharp-Practise\\WPF\\C2Testing\\C2Testing\\C2Testing.csproj",
+        "projectPath": "E:\\Source Code\\GIT\\Yogesh\\C2Testing-XML\\C2Testing\\C2Testing.csproj",
         "packagesPath": "C:\\Users\\Yogesh\\.nuget\\packages\\",
-        "outputPath": "E:\\Yogesh\\Live\\Prac\\C#\\CSharp-Practise\\WPF\\C2Testing\\C2Testing\\obj\\",
+        "outputPath": "E:\\Source Code\\GIT\\Yogesh\\C2Testing-XML\\C2Testing\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Yogesh\\AppData\\Roaming\\NuGet\\NuGet.Config",

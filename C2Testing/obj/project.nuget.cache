@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zeTMsGuKeWT5UXVFQVH0/58UQYJDMYw6YS34b107yG/DQ/lXHUA1D6QQhdhVYxDMxBNax+ueKyK7C5J0J7g58A==",
+  "dgSpecHash": "nYx//NEirtossBBPhEe08QPo+VEVuZJ7iBwa2FnjnxczFKQg0Ndf+FzUo4drGLIwQ/6drr5ZQUVOLPG0KVfGYw==",
   "success": true,
-  "projectFilePath": "E:\\Yogesh\\Live\\Prac\\C#\\CSharp-Practise\\WPF\\C2Testing\\C2Testing\\C2Testing.csproj",
+  "projectFilePath": "E:\\Source Code\\GIT\\Yogesh\\C2Testing-XML\\C2Testing\\C2Testing.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Yogesh\\.nuget\\packages\\xmldiffpatch\\1.0.8.28\\xmldiffpatch.1.0.8.28.nupkg.sha512"
   ],

@@ -16,3 +16,21 @@ E:\Yogesh\Live\Prac\C#\CSharp-Practise\WPF\C2Testing\C2Testing\obj\Debug\net6.0\
 E:\Yogesh\Live\Prac\C#\CSharp-Practise\WPF\C2Testing\C2Testing\bin\Debug\net6.0\XmlDiffPatch.View.dll
 E:\Yogesh\Live\Prac\C#\CSharp-Practise\WPF\C2Testing\C2Testing\bin\Debug\net6.0\XmlDiffPatch.dll
 E:\Yogesh\Live\Prac\C#\CSharp-Practise\WPF\C2Testing\C2Testing\obj\Debug\net6.0\C2Testing.csproj.CopyComplete
+E:\Source Code\GIT\Yogesh\C2Testing-XML\C2Testing\bin\Debug\net6.0\C2Testing.exe
+E:\Source Code\GIT\Yogesh\C2Testing-XML\C2Testing\bin\Debug\net6.0\C2Testing.deps.json
+E:\Source Code\GIT\Yogesh\C2Testing-XML\C2Testing\bin\Debug\net6.0\C2Testing.runtimeconfig.json
+E:\Source Code\GIT\Yogesh\C2Testing-XML\C2Testing\bin\Debug\net6.0\C2Testing.dll
+E:\Source Code\GIT\Yogesh\C2Testing-XML\C2Testing\bin\Debug\net6.0\C2Testing.pdb
+E:\Source Code\GIT\Yogesh\C2Testing-XML\C2Testing\bin\Debug\net6.0\XmlDiffPatch.View.dll
+E:\Source Code\GIT\Yogesh\C2Testing-XML\C2Testing\bin\Debug\net6.0\XmlDiffPatch.dll
+E:\Source Code\GIT\Yogesh\C2Testing-XML\C2Testing\obj\Debug\net6.0\C2Testing.csproj.AssemblyReference.cache
+E:\Source Code\GIT\Yogesh\C2Testing-XML\C2Testing\obj\Debug\net6.0\C2Testing.GeneratedMSBuildEditorConfig.editorconfig
+E:\Source Code\GIT\Yogesh\C2Testing-XML\C2Testing\obj\Debug\net6.0\C2Testing.AssemblyInfoInputs.cache
+E:\Source Code\GIT\Yogesh\C2Testing-XML\C2Testing\obj\Debug\net6.0\C2Testing.AssemblyInfo.cs
+E:\Source Code\GIT\Yogesh\C2Testing-XML\C2Testing\obj\Debug\net6.0\C2Testing.csproj.CoreCompileInputs.cache
+E:\Source Code\GIT\Yogesh\C2Testing-XML\C2Testing\obj\Debug\net6.0\C2Testing.csproj.CopyComplete
+E:\Source Code\GIT\Yogesh\C2Testing-XML\C2Testing\obj\Debug\net6.0\C2Testing.dll
+E:\Source Code\GIT\Yogesh\C2Testing-XML\C2Testing\obj\Debug\net6.0\refint\C2Testing.dll
+E:\Source Code\GIT\Yogesh\C2Testing-XML\C2Testing\obj\Debug\net6.0\C2Testing.pdb
+E:\Source Code\GIT\Yogesh\C2Testing-XML\C2Testing\obj\Debug\net6.0\C2Testing.genruntimeconfig.cache
+E:\Source Code\GIT\Yogesh\C2Testing-XML\C2Testing\obj\Debug\net6.0\ref\C2Testing.dll
